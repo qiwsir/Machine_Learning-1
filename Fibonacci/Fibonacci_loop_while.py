@@ -16,3 +16,5 @@ n = int(input('请输入斐波那契数列的长度n：'))  # 输入斐波那契
 fib = fib_loop_while(n)
 for num in fib:
     print(num, end=" ")
+
+    
