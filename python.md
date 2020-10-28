@@ -37,4 +37,3 @@ Python 安装完成后，需要检测 Python 是否成功安装。打开 cmd 命
 然后一直点确定。最后打开 cmd，直接输入 python。
 
 ![](https://github.com/qiweiyang123/IMG/raw/main/2.png)
-
