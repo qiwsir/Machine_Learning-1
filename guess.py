@@ -25,7 +25,6 @@ def guess_number():
                     print(f"该整数是：{num}")
                     break
 
-
 guess_number()
 
 

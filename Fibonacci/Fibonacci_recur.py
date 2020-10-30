@@ -15,3 +15,4 @@ def fib_recur(n):
 n = int(input('请输入斐波那契数列的长度n：'))  # 输入斐波那契数列的长度
 for i in range(n):
     print(fib_recur(i), end=' ')
+    
