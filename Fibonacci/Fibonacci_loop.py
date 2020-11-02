@@ -10,7 +10,7 @@ def fib_loop(n):
     for i in range(1, n + 1):
         print(a, end=' ')
         a, b = b, a + b
-        if i % 5 == 0:  # 每五个输出一行
+        if i % 5 == 0:  # 每五个输出一行  // 这个不用写在函数里面，用return返回，在使用函数的时候再考虑输出样式
             print("\n")
 
 
